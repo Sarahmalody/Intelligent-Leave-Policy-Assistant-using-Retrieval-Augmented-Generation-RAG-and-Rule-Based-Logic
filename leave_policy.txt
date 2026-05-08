@@ -1,159 +1,85 @@
-COMPREHENSIVE HR LEAVE POLICY DOCUMENT
+COMPANY HR LEAVE POLICY DOCUMENT
+Version 2.1 | Effective Date: January 1, 2024
 
-Page 1: Introduction, Purpose & Applicability
-1.1 Purpose
-The purpose of this Leave Policy is to establish a structured and transparent framework for managing employee leave across the organization. This policy aims to:
-Promote employee well-being and work-life balance
-Ensure operational continuity
-Maintain fairness and consistency in leave administration
-Provide clarity on entitlements, procedures, and compliance requirements
-1.2 Applicability
-This policy applies to:
-All full-time employees
-Part-time employees (on a pro-rata basis)
-The policy does not automatically apply to:
-Contractual staff
-Interns or consultants
-Unless explicitly stated in their respective agreements.
-1.3 Definitions
-Leave Year: January 1st to December 31st
-Working Days: Monday to Friday, excluding public holidays
-Immediate Family: Parents, spouse, children, and siblings
-1.4 General Guidelines
-All leave requests must be submitted via the official HRMS platform
-Leave is subject to managerial approval based on business needs
-Employees must ensure proper handover before proceeding on leave
-Unauthorized absence may lead to disciplinary action
-Page 2: Standard Leave Entitlements
-2.1 Casual Leave (CL)
-Casual Leave is granted for short-term personal needs.
-Entitlement:
-12 days per calendar year
-Rules:
-Cannot be carried forward to the next year
-Maximum 3 consecutive days allowed
-Requires prior approval except in emergencies
-2.2 Sick Leave (SL)
-Sick Leave is granted in case of illness or medical conditions.
-Entitlement:
-10 days per calendar year
-Rules:
-Medical certificate required for leave exceeding 2 consecutive days
-Cannot be encashed or carried forward
-May be combined with Earned Leave if extended illness occurs
-2.3 Earned Leave (EL) / Privilege Leave
-Earned Leave is accrued based on days worked.
-Entitlement:
-18 days per calendar year
-Rules:
-Can be carried forward up to a maximum of 45 days
-Can be availed for planned long-duration leave
-Eligible for encashment during separation or as per company policy
-Page 3: Special Leave Categories
-3.1 Maternity Leave
-Eligible female employees are entitled to 26 weeks of paid leave
-Applicable after confirmation of employment
-Can be taken before and after childbirth as per legal provisions
-3.2 Paternity Leave
-Male employees are entitled to 5 working days
-Must be availed within 3 months of childbirth
-3.3 Bereavement Leave
-3 days of paid leave in case of death of an immediate family member
-Additional leave may be granted at management discretion
-3.4 Marriage Leave
-5 working days of leave for an employee’s own marriage
-Can be combined with Earned Leave
-3.5 Leave Without Pay (LWP)
-Applicable when all leave balances are exhausted
-Requires approval from both manager and HR
-Salary deductions will apply accordingly
-Page 4: Leave Application & Approval Process
-4.1 Application Process
-Planned leave must be applied at least 3 working days in advance
-For extended leave (>5 days), 7 days prior notice is recommended
-4.2 Emergency Leave
-Must be communicated via email, call, or HRMS notification
-Formal application must be submitted post-facto
-4.3 Approval Workflow
-Employee submits request
-Reporting Manager reviews request
-Approval/Rejection with comments
-HRMS updates leave balance automatically
-4.4 Leave Cancellation & Modification
-Leave can be canceled or modified prior to commencement
-Requires manager approval
-4.5 Leave During Notice Period
-Strongly discouraged
-Approval subject to business exigencies
-Unused Earned Leave may be adjusted against notice period where applicable
-Page 5: Festival Holidays & Company-Declared Holidays
-5.1 Public & Festival Holidays
-The organization observes a set of public and festival holidays each calendar year in accordance with regional and national guidelines.
-Key Points:
-A holiday calendar will be published at the beginning of each year
-Holidays may vary based on location and operational requirements
-Employees may be allowed to choose from a list of optional/restricted holidays
-5.2 Optional (Restricted) Holidays
-Employees may select up to 2 optional holidays from a predefined list of cultural or religious festivals
-Requests must be submitted in advance and are subject to approval
-5.3 Working on a Holiday
-In cases where employees are required to work on a declared holiday:
-Compensatory Off (Comp-Off) will be provided
-Comp-Off must be availed within 30 days of accrual
-Manager approval is mandatory
-5.4 Holiday During Leave
-If a declared holiday falls within an approved leave period, it will not be counted as a leave day
-Page 6: Compliance, Encashment & Policy Governance
-5.1 Leave Encashment
-Only Earned Leave is eligible
-Processed during Full & Final settlement
-Encashment value based on last drawn salary
-5.2 Public Holidays During Leave
-Public holidays falling within leave period are not counted as leave days
-5.3 Misuse of Leave Policy
-Providing false information or misuse may result in disciplinary action
-Repeated violations may lead to escalation
-5.4 Exceptions & Discretion
-Exceptions may be granted in special circumstances
-Requires approval from HR and senior management
-5.5 Policy Review & Updates
-This policy is subject to periodic review
-Changes will be communicated through official channels
-Appendix A: Summary Table
+=============================================================
+SECTION 1: TYPES OF LEAVE
+=============================================================
 
-
-Leave Type
-Annual Entitlement
-Carry Forward
-Encashment
-Casual Leave
-12 days
-No
-No
-Sick Leave
-10 days
-No
-No
-Earned Leave
-18 days
-Yes (45 max)
-Yes
-Maternity Leave
-26 weeks
-No
-No
-Paternity Leave
-5 days
-No
-No
-Appendix B: Sample Holiday List (Illustrative)
-New Year’s Day
-Republic Day
-Holi
-Good Friday
-Independence Day
-Ganesh Chaturthi
-Diwali
-Christmas
-(Note: Final list may vary each year and by location.)
-End of Document
+1.1 CASUAL LEAVE (CL)
+- Employees are entitled to 12 days of casual leave per calendar year.
+- Casual leave cannot exceed 3 consecutive days at a time.
+- Casual leave cannot be carried forward to the next year.
+- Casual leave requires prior intimation to the reporting manager at least 1 day in advance.
+- Casual leave cannot be combined with sick leave without HR approval.
+- Half-day casual leave is permitted with manager approval.
+
+1.2 SICK LEAVE (SL)
+- Employees are entitled to 12 days of sick leave per calendar year.
+- Sick leave of up to 2 days does not require medical documentation.
+- Sick leave exceeding 2 consecutive days requires a valid medical certificate from a registered doctor.
+- Sick leave must be reported to the manager on the first day of absence, preferably before 10:00 AM.
+- Sick leave can be carried forward up to a maximum of 30 days.
+- Sick leave cannot be taken as planned leave; it is only for genuine medical emergencies.
+
+1.3 EARNED LEAVE / PRIVILEGE LEAVE (EL/PL)
+- Employees accrue 1.5 days of earned leave per month, totaling 18 days per year.
+- Earned leave requires prior approval from the reporting manager at least 7 days in advance.
+- A minimum of 3 days of earned leave must be taken at a time.
+- Earned leave can be carried forward up to 45 days maximum.
+- Earned leave encashment is permitted up to 15 days per year during annual leave settlement.
+- Earned leave cannot be availed during the probation period (first 6 months).
+
+1.4 MATERNITY LEAVE
+- Female employees are entitled to 26 weeks (182 days) of paid maternity leave.
+- Maternity leave requires medical documentation and advance notice of at least 4 weeks.
+- Maternity leave is applicable after completion of 80 days of work in the preceding 12 months.
+
+1.5 PATERNITY LEAVE
+- Male employees are entitled to 5 days of paid paternity leave.
+- Paternity leave must be taken within 30 days of the child's birth.
+- Paternity leave requires submission of birth certificate.
+
+1.6 BEREAVEMENT LEAVE
+- Employees are entitled to 5 days of paid bereavement leave for immediate family members.
+- Immediate family includes: spouse, children, parents, and siblings.
+- Additional 2 days unpaid leave may be granted for extended family members.
+- Bereavement leave must be reported to HR within 24 hours.
+
+1.7 COMPENSATORY OFF (COMP-OFF)
+- Comp-off is granted when employees work on weekends or public holidays.
+- Comp-off must be utilized within 30 days of the working day.
+- Unused comp-off lapses after 30 days and cannot be encashed.
+
+=============================================================
+SECTION 2: LEAVE APPLICATION & APPROVAL PROCESS
+=============================================================
+
+2.1 APPROVAL HIERARCHY
+- Up to 3 days: Reporting Manager approval required.
+- 4 to 7 days: Reporting Manager + Department Head approval required.
+- More than 7 days: Reporting Manager + Department Head + HR approval required.
+- Maternity/Paternity leave: HR approval directly.
+
+2.2 APPLICATION PROCEDURE
+- All leave applications must be submitted through the HR portal.
+- Emergency leave may be communicated via phone or email and formalized within 24 hours.
+
+=============================================================
+SECTION 3: LEAVE RESTRICTIONS
+=============================================================
+
+3.1 GENERAL RESTRICTIONS
+- No more than 2 employees from the same team can be on leave simultaneously.
+- Leave cannot be taken during project deadlines unless approved by the Director.
+- Employees on probation are not eligible for earned leave.
+- Leave without pay (LWP) is only granted after all applicable leave balances are exhausted.
+
+3.2 COMBINATION RULES
+- Casual leave and sick leave cannot be combined.
+- Earned leave can be combined with casual leave with manager approval.
+- Public holidays sandwiched between leave days are counted as leave days.
+
+3.3 NOTICE PERIOD RULES
+- Casual leave during notice period requires manager and HR approval.
+- Sick leave during notice period requires medical documentation regardless of duration.
+- Earned leave encashment is offered during full and final settlement.
